@@ -3,9 +3,10 @@ body {
   font-family: "Helvetica"
 }
 
-.menu {
+.menu h3 {
 background-image: url("../../resources/images/the-flatiron-building.png");
 color: white;
+font-weight:bold;
 }
 
 #btmmenu {
@@ -49,4 +50,8 @@ li {
 
  h3 {
    font-size: 23px;
+ }
+
+ p{
+   font-size:14px;
  }
