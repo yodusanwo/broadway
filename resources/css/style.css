@@ -1,13 +1,25 @@
-body{
+body {
   text-align: center;
   font-family: "Helvetica"
 }
 
 .menu {
 background-image: url("/Users/yewande/Documents/projects/broadway/resources/images/the-flatiron-building.png");
-color:white;
+color: white;
 }
 
-h1{
+h1 {
   font-size: 70px;
+  font-weight: bold;
 }
+
+li {
+  font-size: 18px;
+}
+
+#nav a, ul {
+   color: white;
+   font-size:18px;
+   text-align: center;
+   list-style-type: none;
+ }
