@@ -21,6 +21,11 @@ color: white;
   display:inline;
 }
 
+#btmmenu #copyright {
+  color:white;
+  font-size: 11px;
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -38,7 +43,10 @@ li {
  }
 
 
- h2{
+ h2 {
    color:grey;
+ }
 
+ h3 {
+   font-size: 23px;
  }
