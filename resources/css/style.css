@@ -8,6 +8,18 @@ background-image: url("../../resources/images/the-flatiron-building.png");
 color: white;
 }
 
+#btmmenu {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+
+}
+
+#btmmenu li, a{
+  color: yellow;
+  display:inline;
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
