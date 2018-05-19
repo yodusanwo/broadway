@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  font-family: "Helvetica"
+}
+
+.menu {
+background-image: url("/Users/yewande/Documents/projects/broadway/resources/images/the-flatiron-building.png");
+color:white;
+}
+
+h1{
+  font-size: 70px;
+}
