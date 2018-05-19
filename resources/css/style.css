@@ -3,7 +3,7 @@ body {
   font-family: "Helvetica"
 }
 
-.menu h3 {
+.menu {
 background-image: url("../../resources/images/the-flatiron-building.png");
 color: white;
 font-weight:bold;
@@ -18,7 +18,7 @@ font-weight:bold;
 }
 
 #btmmenu li, a{
-  color: yellow;
+  color: white;
   display:inline;
 }
 
@@ -34,6 +34,7 @@ h1 {
 
 li {
   font-size: 18px;
+  font-weight:normal;
 }
 
 #nav a, ul {
@@ -46,10 +47,12 @@ li {
 
  h2 {
    color:grey;
+   font-size:32px;
  }
 
  h3 {
    font-size: 23px;
+   font-weight:bold;
  }
 
  p{
